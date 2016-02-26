@@ -2,7 +2,7 @@ FROM alpine:3.2
 MAINTAINER kenners <knutenners+git@gmail.com>
 
 LABEL arch=x86_64 \
-    java.version="1.7.0_79" \
+    java.version="7.91.2.6.3-r1" \
     java.vendor=OpenJDK \
     java.jvm=JRE \
     os=alpine
